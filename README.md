@@ -27,8 +27,3 @@ This repository contains a Dart program that demonstrates various fundamental co
 
 ```bash
 dart run file_handling_assignment.dart
-
-## Author
-
-1. GitHub smangelent@gmail.com.
-2. (https://github.com/smangelent@gmail.com)
